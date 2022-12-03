@@ -1652,8 +1652,8 @@ decamelize@^1.1.1, decamelize@^1.2.0:
   resolved "https://registry.npm.taobao.org/decamelize/download/decamelize-1.2.0.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fdecamelize%2Fdownload%2Fdecamelize-1.2.0.tgz#f6534d15148269b20352e7bee26f501f9a191290"
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.npm.taobao.org/decode-uri-component/download/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
 
 decompress-tar@^4.0.0, decompress-tar@^4.1.0, decompress-tar@^4.1.1:
   version "4.1.1"
@@ -4581,6 +4581,14 @@ react-is@^16.7.0, react-is@^16.8.1, react-is@^16.8.3, react-is@^16.8.4, react-is
 react-lifecycles-compat@^3.0.4:
   version "3.0.4"
   resolved "https://registry.npm.taobao.org/react-lifecycles-compat/download/react-lifecycles-compat-3.0.4.tgz#4f1a273afdfc8f3488a8c516bfda78f872352362"
+
+react-native-amap-geolocation@^1.0.3:
+  version "1.2.0"
+  resolved "https://registry.npmmirror.com/react-native-amap-geolocation/-/react-native-amap-geolocation-1.2.0.tgz#d5c24f93122e562a2f122e4db846a4ceeda4e2e0"
+
+react-native-amap3d@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.npmmirror.com/react-native-amap3d/-/react-native-amap3d-1.1.1.tgz#15f736907056a5ee451157cd7a948e0931bf8fe1"
 
 react-native-easy-toast@^1.2.0:
   version "1.2.0"
