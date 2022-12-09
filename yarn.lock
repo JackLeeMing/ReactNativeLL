@@ -4523,8 +4523,8 @@ qs@^6.1.0:
   resolved "https://registry.npm.taobao.org/qs/download/qs-6.7.0.tgz#41dc1a015e3d581f1621776be31afb2876a9b1bc"
 
 qs@~6.5.2:
-  version "6.5.2"
-  resolved "https://registry.npm.taobao.org/qs/download/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.3.tgz#3aeeffc91967ef6e35c0e488ef46fb296ab76aad"
 
 query-string@^6.4.2:
   version "6.7.0"
@@ -4581,6 +4581,14 @@ react-is@^16.7.0, react-is@^16.8.1, react-is@^16.8.3, react-is@^16.8.4, react-is
 react-lifecycles-compat@^3.0.4:
   version "3.0.4"
   resolved "https://registry.npm.taobao.org/react-lifecycles-compat/download/react-lifecycles-compat-3.0.4.tgz#4f1a273afdfc8f3488a8c516bfda78f872352362"
+
+react-native-amap-geolocation@^1.0.3:
+  version "1.2.0"
+  resolved "https://registry.npmmirror.com/react-native-amap-geolocation/-/react-native-amap-geolocation-1.2.0.tgz#d5c24f93122e562a2f122e4db846a4ceeda4e2e0"
+
+react-native-amap3d@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.npmmirror.com/react-native-amap3d/-/react-native-amap3d-1.1.1.tgz#15f736907056a5ee451157cd7a948e0931bf8fe1"
 
 react-native-easy-toast@^1.2.0:
   version "1.2.0"
